@@ -1,4 +1,4 @@
-# VQE-Tutorial-H2
+# Variational Quantum Eigensolver Tutorial
 
 <b> Return to [Full Project Portfolio](https://github.com/jamessaslow/portfolio) </b>
 
