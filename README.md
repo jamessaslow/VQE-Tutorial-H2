@@ -1,7 +1,7 @@
 # Variational Quantum Eigensolver Tutorial
 
 ### Contributors: James Saslow
-### 1/12/2025
+### 11/10/2023
 
 <b> Return to [Full Project Portfolio](https://github.com/jamessaslow/portfolio) </b>
 
