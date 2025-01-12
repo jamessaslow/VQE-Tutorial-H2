@@ -7,6 +7,8 @@
 
 The Variational Quantum Eigensolver (VQE) tutorial aims to guide aspiring quantum software engineers to program the VQE in a Python environment. In particular, this tutorial focuses in on solving for the ground state energy of H2 using VQE.
 
+Get started on the tutorial by clicking *Variational Quantum Eigensolver.ipynb*
+
 
 ![image](https://github.com/user-attachments/assets/e897a50f-9fa7-4c3c-b509-7d13f36f0ed4)
 
