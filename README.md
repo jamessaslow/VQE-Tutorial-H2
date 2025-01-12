@@ -6,3 +6,6 @@ The Variational Quantum Eigensolver (VQE) tutorial aims to guide aspiring quantu
 
 
 ![image](https://github.com/user-attachments/assets/e897a50f-9fa7-4c3c-b509-7d13f36f0ed4)
+
+
+![download](https://github.com/user-attachments/assets/f9f7a202-5301-47e8-826a-be45a9f3ab9e)
